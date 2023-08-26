@@ -16,4 +16,4 @@ public class GT10 {
     }
 }
 
-
+//write a programm to print out duplicate elements from an Array of Strings
